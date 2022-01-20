@@ -3,12 +3,14 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "2021PDN123456",
-    "mac1": "001132123456"
-    },
+    "mac1": "001132123456",
+     "SataPortMap": "488",
+    "DiskIdxMap": "0f0008"
+  },
   "synoinfo": {
-    "maxdisks" : "16",
-    "esataportcfg": "0xfffc",
-    "internalportcfg": "0x3"	
+    "maxdisks" : "20",
+    "esataportcfg": "0xffc00",
+    "internalportcfg": "0x3ff"
   },
   "ramdisk_copy": {},
   "extensions": []
